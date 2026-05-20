@@ -38,5 +38,5 @@ aucun
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : William Chenier
+Nom : William Chenier //
 Date : 20 mai 2026
