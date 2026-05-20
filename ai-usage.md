@@ -13,19 +13,20 @@
 Outil : __
 Version / date d'accès : __
 
-aucun
+Claude.ai
 
 ---
 
 ## 2. Ce qu'il m'a aidé à faire
 
-aucun
+receuillir des informations sur les différents IA
 
 ---
 
 ## 3. Sources et chiffres que j'ai vérifiés moi-même
 
-aucun
+Tous, avec internet et mes connaissances actuelles
+
 
 ## 4. Ce que j'ai modifié ou rejeté
 
