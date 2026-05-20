@@ -13,40 +13,29 @@
 Outil : __
 Version / date d'accès : __
 
-*(Si plusieurs outils, dupliquez cette section.)*
+aucun
 
 ---
 
 ## 2. Ce qu'il m'a aidé à faire
 
-*(Tâche précise — ex. : « structurer la section ROI », pas : « écrire le travail ».)*
-
-__
+aucun
 
 ---
 
 ## 3. Sources et chiffres que j'ai vérifiés moi-même
 
-*(Pour chaque affirmation ou chiffre fourni par l'IA → source primaire consultée.)*
-
-- __
-- __
-
----
+aucun
 
 ## 4. Ce que j'ai modifié ou rejeté
 
 *(Ce que l'IA a proposé mais que vous avez changé, corrigé ou écarté — et pourquoi.)*
-
-- __
-- __
-
----
+aucun
 
 ## 5. Déclaration de responsabilité
 
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : __
-Date : __
+Nom : William Chenier
+Date : 20 mai 2026
